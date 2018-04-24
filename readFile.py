@@ -5,4 +5,5 @@ with open("C:\\Users\\Tony\\Dropbox\\acloud.guru\\PythonBegginers\\recipe.txt") 
     recipe = inputFile.read()
 
 print(recipe)
+print(recipe)
 
